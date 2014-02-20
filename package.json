@@ -1,18 +1,11 @@
 {
-  "name": "mime-component",
+  "name": "component-mime",
+  "description": "mime type map / lookup",
   "version": "0.0.1",
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "component": {
-    "scripts": {
-      "mime/index.js": "index.js",
-      "mime/types.js": "types.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/mime.git"
-  }
+  "keywords": [
+    "mime",
+    "type",
+    "utility"
+  ],
+  "dependencies": {}
 }
